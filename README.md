@@ -1,6 +1,28 @@
 # Hack the Ocean
 Proyecto Desarrollado para el Hackaton de Launch X
 
+## Integrantes
+
+Bryan Contreras 
+launchx11315@innovaccion.mx
+
+Edgar Tornez 
+launchx00314@innovaccion.mx
+
+Joel Flores 
+launchx09249@innovaccion.mx
+
+Leonel Vazquez 
+launchx10934@innovaccion.mx
+
+Samuel Garcia 
+launchx05972@innovaccion.mx
+
+
+## TikTok del Proyecto
+
+[>>SOY EL LINK<<](https://www.tiktok.com/@kickfalconi/video/7098133583201701125?_t=8SLWeYhZxJe&_r=1)
+
 ## Introducción
 
 Hasta hace poco, la humanidad parecía ver el océano como una fuente de recursos infinitos. Su gran tamaño y profundidad y sus fronteras inexploradas hacían que el océano pareciera invulnerable a la sobreexplotación. La verdad es que las poblaciones de muchas especies están disminuyendo a un ritmo insostenible, y el número de especies en peligro de extinción de familias de vida marina como ballenas, delfines, manatíes y dugongos, salmones, aves marinas, tortugas marinas y tiburones, por nombrar algunos pocos, van en aumento. Las amenazas a las especies marinas son difíciles de percibir porque los animales marinos no son tan visibles como los terrestres.
@@ -84,3 +106,19 @@ En base al interés que se tiene de preservar los ecosistemas marinos, es posibl
 ![Design Home p2](/ImagenesDocumentacion/HOMEUI2.png)
 ![Maps Design](/ImagenesDocumentacion/Maps.png)
 ![Donation Design](/ImagenesDocumentacion/Donation.png)
+
+## Implementacion/Evidencia
+![DB Azure](/ImagenesDocumentacion/Database.jpg)
+![Datos Especies](/ImagenesDocumentacion/Data.jpg)
+![Datos Intellij](/ImagenesDocumentacion/DataIntellij.jpg)
+![Evidencia 1](/ImagenesDocumentacion/hto1.jpg)
+![Evidencia 2](/ImagenesDocumentacion/hto2.jpg)
+![Evidencia 3](/ImagenesDocumentacion/hto3.jpg)
+![Evidencia 4](/ImagenesDocumentacion/hto4.jpg)
+![Evidencia 5](/ImagenesDocumentacion/hto5.jpg)
+![Evidencia 6](/ImagenesDocumentacion/hto6.jpg)
+![Evidencia 7](/ImagenesDocumentacion/hto7.jpg)
+![Evidencia 8](/ImagenesDocumentacion/hto8.jpg)
+![Evidencia 9](/ImagenesDocumentacion/hto9.jpg)
+![Evidencia 10](/ImagenesDocumentacion/hto10.jpg)
+![Evidencia 11](/ImagenesDocumentacion/hto11.jpg)

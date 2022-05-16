@@ -1,0 +1,176 @@
+
+.carousel{
+    width: 100%;
+}
+
+footer{
+    width: 100%;
+    padding: 50px 0px;
+    background-image: url("../img/background-footer.svg");
+    background-size: cover;
+
+
+}
+.container_footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+}
+.box__footer{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+.box__footer .logo img{
+    width: 180px;
+}
+.box__footer .terms{
+    max-width: 350px;
+    margin-top: 20px;
+    font-weight: 500;
+    color: #7a7a7a;
+    font-size: 18px;
+}
+.box__footer h2{
+    margin-bottom: 30px;
+    color: #343434;
+    font-weight: 700;
+}
+.box__footer a{
+    margin-top: 10px;
+    color: #7a7a7a;
+    font-weight: 600;
+}
+.box__footer a:hover{
+    opacity: 0.8;
+}
+.box__footer a .fa{
+    font-size: 20px;
+}
+.box__copyright{
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding: 0px 40px;
+}
+.box__copyright p{
+    margin-top: 20px;
+    color: #7a7a7a;
+}
+.box__copyright hr{
+    border: none;
+    height: 1px;
+    background-color: #7a7a7a;
+}
+.item{
+    margin-top: 30px;
+}
+nav{
+    background-color: #d0f0f8;
+}
+body{
+    background: rgb(3,4,94);
+    background: linear-gradient(360deg, rgba(3,4,94,1) 0%, rgba(0,119,182,1) 35%, rgba(0,180,216,1) 100%);
+}
+
+iframe{
+    position: relative;
+    margin: -60vh 0vh 0vh -20vh;
+}
+input[type="text"]{
+    border-radius: 6px;
+}
+.sta_consult{
+    position: absolute;
+    width: fit-content;
+    margin:-10vh 0vh 0vh 15vh;
+}
+.sta_info{
+    width:70vh;
+    height: 60vh;
+    margin: 15vh 0vh 0vh 90vh;
+    background-color: hsla(0, 0%, 100%, 0.6);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+label{
+    color: white;
+}
+
+.donation_amounts{
+    display: flex;
+    justify-content: space-around;
+}
+
+input, textarea, select {
+    border: 0;
+    outline: none;
+    width: 280px;
+    font-size:16px;
+}
+.field {
+    font-size: 15px;
+    border: solid 1px #ccc;
+    padding: 10px;
+}
+.field:focus {
+    border-color: #18a383;
+}
+.btnDonar{
+    width: 280px;
+    background: #1f53c5;
+    border-radius: 25px;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.seccionTabla {
+    margin: 50px;
+    padding: 35px;
+    background: #bebebe;
+    border-radius: 15px;
+}
+#tabla {
+    border-collapse: collapse;
+    width: 100%;
+    background: #f2f2f2;
+}
+#tabla th{
+    text-align: left;
+    border: 1px solid #a2a2a2;
+    padding: 8px;
+    font-size: 15px;
+}
+td {
+    text-align: left;
+    border: 1px solid #a2a2a2;
+    padding: 8px;
+    font-size: 13px;
+}
+
+tr:nth-child(even) {
+    color: white;
+    background-color: #424242;
+}
+#encabezado{
+    font-size: 22px;
+    color: white;
+    padding-bottom:13px;
+}
+thead {
+    background-color: #4caf50;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+}
+td:hover{
+    background:black;
+    color:white;
+    transform: scale(1.1);
+}
